@@ -30,7 +30,7 @@ var theranos = {
 
 
 
- var elonMusk = {
+ var simuLiu = {
    firstName: "Simu",
    middleName: "",
    lastName: "Liu",
